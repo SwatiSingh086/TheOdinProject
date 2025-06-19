@@ -1,1 +1,2 @@
-Hewwo Odin!
+Hewoo Odin! 
+This repository is dedicated to implementing The Odin Project!
