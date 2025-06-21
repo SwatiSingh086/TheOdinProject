@@ -1,0 +1,100 @@
+body{
+    background-color: lightpink;
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+}
+.container{
+    background-color: rgb(251, 228, 232);
+    width: 620px;
+    height: 300px;
+    border-radius: 30px;
+}
+.toprow{
+    height: 40px;
+    display: flex;
+}
+#mark{
+    background-color: deeppink;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+#heading{
+    text-align: center;
+    margin: 10px;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+    color:rgb(0, 0, 0);
+    margin-right: 110px;
+}
+#cross{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    background-color: rgba(255, 255, 255, 0.845);
+    height: 30px;
+    width: 30px;
+    border-radius:50%;
+    color: deeppink;
+    margin: 10px;
+    margin-top: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#text{
+    margin:40px;
+    margin-left:60px;
+    font-size: larger;
+}
+.options{
+    display: flex;
+    justify-content: end;
+    margin: 40px;
+    margin-left: 20px;
+
+}
+#continue{
+    height: 40px;
+    width: 110px;
+    background-color: deeppink;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    
+}
+#cancel {
+    height: 40px;
+    width: 110px;
+    background-color: rgba(255, 182, 193, 0.564);
+    border-radius: 10px;
+    color: deeppink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+#cont{
+    color: white;
+    text-decoration: none;
+}
+#can{
+    color:deeppink;
+    text-decoration:none;
+}
