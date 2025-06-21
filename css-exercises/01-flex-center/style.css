@@ -1,0 +1,21 @@
+
+#red{
+    background-color: rgb(175, 63, 86);
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    border: solid black ;
+
+}
+.container{
+    display: flex;
+    align-items:center;
+   justify-content: center;
+    text-align: center;
+    background-color: rgb(93, 160, 160);
+    margin: 0%;
+    padding: 0%;
+    height: 610px;
+    
+
+}

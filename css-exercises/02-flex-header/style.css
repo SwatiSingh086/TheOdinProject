@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(154, 237, 209);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    border: solid plum;
+    margin: 0%;
+    background-color: rgb(252, 233, 150);
+}
+.boxes{
+    background-color: rgb(236, 175, 204);
+    color: rgb(255, 251, 253);
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    margin-right: 2%;
+    margin-left: 2%;
+    text-align: center;
+    border: solid rgb(205, 173, 255);
+    
+}
+#logo{
+    background-color: rgb(248, 152, 225);
+    width: 200px;
+    margin: 10%;
+    
+}
